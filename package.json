@@ -108,7 +108,7 @@
     "@types/node": "^18.8.3",
     "access-sniff": "^3.2.0",
     "autoprefixer": "^10.2.5",
-    "bestzip": "^2.2.0",
+    "bestzip": "^2.2.1",
     "browserify": "^16.2.3",
     "chokidar-cli": "^2.1.0",
     "clean-css-cli": "^4.3.0",
